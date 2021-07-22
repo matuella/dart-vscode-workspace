@@ -1,0 +1,6 @@
+name: test
+description: A new package project.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"

@@ -1,0 +1,5 @@
+{
+  "dart.lineLength": 120,
+  // "dart.extensionLogFile": "/Users/your_user/Desktop/ext.txt",
+  "editor.formatOnSave": true,
+}
